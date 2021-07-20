@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Links</title>
+</head>
+<body>
+  <h1 id="top">Bullying</h1>
+  <section>
+    <ul>
+      <!-- Link to every section in the page -->
+      <li><a href="#What Is Bullying?">#What Is Bullying?</a></li>
+      <li><a href="#Physical Bullying">#Physical Bullying</a></li>
+      <li><a href="#Cyberbullying">#Cyberbullying</a></li>
+      <li><a href="#The Amanda Todd Case">#The Amanda Todd Case</a></li>
+      <li><a href="#Do Bullies Really Intend To Bully?">#Do Bullies Really Intend To Bully?</a></li>
+      <li><a href="#Conclusion">#Conclusion</a></li>
+      <li><a href="#The End">#The End</a></li>
+    </ul>
+
+  </section>
+
+  <section id="What Is Bullying?">
+    <h3>What Is Bullying?</h3>
+    <p>One of the biggest problems of all; rapidly spreading across the world; the one problem that destroys all hope for victims; bullying. Physical bullying; the one which gets people hurt, makes them insecure, and the one that puts its victims in grave risk. Cyberbullying; harassing online, broadcasting something private worldwide, making someone feel bad for your own happiness. Then again taking a deeper dive into the bullies actions can let you know if they are cold-hearted, or are they forced or pressured. This problem must be stopped under any conditions!</p>
+  </section>
+
+  <section id="Physical Bullying">
+    <h3>Physical Bullying</h3>
+    <p>Physical bullying, the most known type of bullying. This can be harmful in many ways. 1) it can hurt someone or put them in medical danger, 2) it can make someone insecure, 3) it could put them on high medical risks, and 4) They can become bigger targets because people might not pay attention to them. According to world book, “In 1999, the Columbine high school massacre raised attention to the U.S. government, after the confirmed 15 deaths, schools banned any guns; even water guns.” Though this is not the only one, in 2014 the Taliban came into Peshawar school, Pakistan killed nearly 150 students. Bullying has been a problem for decades but almost no one wants to take action against it!</p>
+  </section>
+  <section id="Cyberbullying">
+    <h3>Cyberbullying</h3>
+    <p>Cyberbullying, in my opinion, the worst type of bullying. This can help bullies get away because behind the computer you can be anything; it’s like in the movie Guns Akimbo, when the guy is nobody in real life and behind the internet, he is the biggest troll. Since Cyberbullying can have long term effects such as depression, low self-esteem, Unhealthy addictions, trust issues, and poor mental health. According to World book, “Most immigrants who live in the country, are widely misunderstood and bullied because of their race or what they do.” (Image to the right shows the stats of how much kids get cyberbullied)</p>
+  </section>
+  <section id="The Amanda Todd Case">
+    <h2>The Amanda Todd Case</h2>
+    <p>Cyberbullying has been getting worse through the years. People are aware of this situation and there have been some cases where people were desperate enough to take their own life. These cases have been mostly for harassment, fake accusations, and also just cyberbullying in all. One of the more popular cases was Amanda Todd Suicide. Amanda was very popular online when an anonymous stranger joined in her call and harassed her online. But since he was anonymous, it was blamed on Amanda which made her the target for the police. After she was out of jail she moved to another home which led to her substance use. After that at school, she was attacked and then she drank bleach to attempt suicide. Even though Amanda survived she sent out messages on Facebook of why she was going to hang herself. And therefore, she died. Even though bullying in all is a big problem do bullies really intend to make others feel bad? </p>
+  </section>
+  <section id="Do Bullies Really Intend To Bully?">
+    <h2>Do Bullies Really Intend To Bully?</h2>
+    <p>Sometimes, bullies can be forced to make others feel bad or don’t even know that they are bullying! And sometimes like in the Julian Chapter by R.J. Palacio, Julian felt like he was the one target. August Pullman had taken his fame in the school which made him very mad that he was bullying Auggie without even knowing it! After hearing his Grandma’s story he finally understands that what he was doing is wrong. But how do people tell if they are bullies or forced to be bullies? The most convenient way is to know if they were always like that. If they were always bullies, then they are bullies, but if they are bullies after someone specific came in then they might be forced. </p>
+  </section>
+  <section id="Conclusion">
+    <h2>Conclusion</h2>
+    <p>Though the widely known problem called bullying might be a big problem, do all bullies really intend to bully? Do people cyberbully for fun? Does bullying exceed their limits? Didn’t think bullying was a big problem? Well now you know, the world's biggest problem broken down for you. If you are being bullied then you can go to the official government bullying site, and if you want to join the anti-bullying movement then you could go to an official instagram page.</p>
+  </section>
+  <div>
+    <h2><a name="The End">The End</a></h2>
+    <p>
+      Back to top: <a href="#top">Back to Top</a>
+    </p>
+  </div>
+</body>
+</html>
